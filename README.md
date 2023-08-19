@@ -23,12 +23,19 @@ End the program and close the output image windows.
 ### Register Number: 
 i) #To Read,display the image
 ```
-  
+  import cv2
+img = cv2.imread('wol.webp', 1)
+cv2.imshow('2122222300530_jeeva', img)
+cv2.waitKey(0)
 
 ```
 ii) #To write the image
 ```
-
+import cv2
+img = cv2.imread('wol.webp', 1)
+new_image = cv2.imwrite('wol.webp', img)
+cv2.imshow('212222230053_Jeeva', img)
+cv2.waitKey(0)
 
 
 ```
