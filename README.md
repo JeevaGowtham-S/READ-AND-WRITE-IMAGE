@@ -87,7 +87,7 @@ cv2.waitKey(0)
 <br>
 
 ### ii)Write the image:
- ![Screenshot 2023-08-23 115319](https://github.com/JeevaGowtham-S/READ-AND-WRITE-IMAGE/assets/118042624/de8e7bd0-557c-454b-9d07-d90db5d88c43)
+
 
 
 <br>
@@ -100,12 +100,14 @@ cv2.waitKey(0)
 <br>
 
 ### iv)Access rows and columns
+![Uploading Screenshot 2023-08-23 090658.png…]()
+
 ![Screenshot 2023-08-23 091914](https://github.com/JeevaGowtham-S/READ-AND-WRITE-IMAGE/assets/118042624/8e4edab5-4a28-4169-b4a1-3e0d3316942e)
 <br>
 <br>
 
 ### v)Cut and paste portion of image
-
+ ![Screenshot 2023-08-23 115319](https://github.com/JeevaGowtham-S/READ-AND-WRITE-IMAGE/assets/118042624/de8e7bd0-557c-454b-9d07-d90db5d88c43)
 <br>
 <br>
 
