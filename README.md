@@ -68,6 +68,12 @@ cv2.waitKey(0)
 ```
 v) #To cut and paste portion of image
 ```python3
+import cv2
+color_image=cv2.imread('123.jpg',1)
+tag=color_image[20:80,20:80]
+color_image[90:150,90:150]=tag
+cv2.imshow("212222230053_JEEVA",color_image)
+cv2.waitKey(0)
 
 
 ```
