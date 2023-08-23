@@ -19,13 +19,13 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By:JEEVAGOWTHAM S
+### Register Number: 212222230053 
 i) #To Read,display the image
 ```
 import cv2
 color_img=cv2.imread('123.jpg',1)
-cv2.imshow('212222230053',color_img)
+cv2.imshow('212222230053_jeeva',color_img)
 cv2.waitKey(0)
 
 ```
@@ -34,8 +34,8 @@ ii) #To write the image
 
 import cv2
 color_img=cv2.imread('123.jpg',1)
-w= cv2.imwrite('1.png',color_img)
-cv2.imshow('1',color_img)
+w= cv2.imwrite('0.png',color_img)
+cv2.imshow('0',color_img)
 cv2.waitKey(0)
 
 
@@ -45,8 +45,10 @@ cv2.waitKey(0)
 iii) #Find the shape of the Image
 ```python3
 import cv2
+import random
 color_img=cv2.imread('123.jpg',1)
-print("
+print(color_img.shape)
+
 
 ```
 iv) #To access rows and columns
@@ -78,7 +80,8 @@ v) #To cut and paste portion of image
 <br>
 <br>
 
-### ii)Write the image
+###ii)Write the image:
+ 
 
 <br>
 <br>
