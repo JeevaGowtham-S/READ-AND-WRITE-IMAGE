@@ -87,6 +87,7 @@ cv2.waitKey(0)
 <br>
 
 ### ii)Write the image:
+![Screenshot 2023-08-23 094610](https://github.com/JeevaGowtham-S/READ-AND-WRITE-IMAGE/assets/118042624/fe8d433f-e606-4786-a14a-55f13c137728)
 
 
 
@@ -100,7 +101,7 @@ cv2.waitKey(0)
 <br>
 
 ### iv)Access rows and columns
-![Uploading Screenshot 2023-08-23 090658.png…]()
+
 
 ![Screenshot 2023-08-23 091914](https://github.com/JeevaGowtham-S/READ-AND-WRITE-IMAGE/assets/118042624/8e4edab5-4a28-4169-b4a1-3e0d3316942e)
 <br>
